@@ -1,0 +1,9 @@
+size,b_in,d_in,Fb_psi,CF,E_psi,grade
+2x6,1.5,5.5,900,1.3,1600000,DF-L No. 2 (NDS Table 4A)
+2x8,1.5,7.25,900,1.2,1600000,DF-L No. 2 (NDS Table 4A)
+2x10,1.5,9.25,900,1.1,1600000,DF-L No. 2 (NDS Table 4A)
+2x12,1.5,11.25,900,1.0,1600000,DF-L No. 2 (NDS Table 4A)
+4x8,3.5,7.25,900,1.3,1600000,DF-L No. 2 (NDS Table 4A)
+4x10,3.5,9.25,900,1.2,1600000,DF-L No. 2 (NDS Table 4A)
+4x12,3.5,11.25,900,1.1,1600000,DF-L No. 2 (NDS Table 4A)
+6x12,5.5,11.5,875,1.0,1300000,DF-L No. 2 Beams & Stringers (NDS Table 4D)
